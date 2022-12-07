@@ -1,0 +1,33 @@
+html {
+    background: url("img/space.jpg") no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+    width: 800px;
+    padding: 25px 75px 50px;
+    margin: auto;
+}
+
+div {
+    background-color: rgb(255, 255, 255, 0.4);
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 18px;
+}
+
+h2 {
+    margin-left: 50px;
+}
+
+hr {
+    width: 700px;
+}
